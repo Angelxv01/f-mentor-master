@@ -6,7 +6,8 @@
     "jsx": "react-jsx",
     "strictNullChecks": true,
     "strictFunctionTypes": true,
-    "checkJs": true
+    "checkJs": true,
+    "resolveJsonModule": true
   },
   "exclude": ["node_modules", "**/node_modules/*"]
 }
